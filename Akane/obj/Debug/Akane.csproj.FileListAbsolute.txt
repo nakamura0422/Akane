@@ -1,0 +1,32 @@
+c:\users\kuma\documents\visual studio 2015\Projects\Akane\Akane\bin\Debug\Akane.exe.config
+c:\users\kuma\documents\visual studio 2015\Projects\Akane\Akane\bin\Debug\Akane.exe
+c:\users\kuma\documents\visual studio 2015\Projects\Akane\Akane\bin\Debug\Akane.pdb
+c:\users\kuma\documents\visual studio 2015\Projects\Akane\Akane\bin\Debug\System.Reactive.Core.dll
+c:\users\kuma\documents\visual studio 2015\Projects\Akane\Akane\bin\Debug\System.Reactive.Interfaces.dll
+c:\users\kuma\documents\visual studio 2015\Projects\Akane\Akane\bin\Debug\System.Reactive.Linq.dll
+c:\users\kuma\documents\visual studio 2015\Projects\Akane\Akane\bin\Debug\System.Reactive.PlatformServices.dll
+c:\users\kuma\documents\visual studio 2015\Projects\Akane\Akane\bin\Debug\System.Reactive.Windows.Threading.dll
+c:\users\kuma\documents\visual studio 2015\Projects\Akane\Akane\bin\Debug\System.Reactive.Core.xml
+c:\users\kuma\documents\visual studio 2015\Projects\Akane\Akane\bin\Debug\System.Reactive.Interfaces.xml
+c:\users\kuma\documents\visual studio 2015\Projects\Akane\Akane\bin\Debug\System.Reactive.Linq.xml
+c:\users\kuma\documents\visual studio 2015\Projects\Akane\Akane\bin\Debug\System.Reactive.PlatformServices.xml
+c:\users\kuma\documents\visual studio 2015\Projects\Akane\Akane\bin\Debug\System.Reactive.Windows.Threading.xml
+c:\users\kuma\documents\visual studio 2015\Projects\Akane\Akane\obj\Debug\Akane.csprojResolveAssemblyReference.cache
+c:\users\kuma\documents\visual studio 2015\Projects\Akane\Akane\obj\Debug\Akane.exe
+c:\users\kuma\documents\visual studio 2015\Projects\Akane\Akane\obj\Debug\Akane.pdb
+C:\Users\NG.nakamura\Desktop\Akane\Akane\bin\Debug\Akane.exe.config
+C:\Users\NG.nakamura\Desktop\Akane\Akane\obj\Debug\Akane.exe
+C:\Users\NG.nakamura\Desktop\Akane\Akane\obj\Debug\Akane.pdb
+C:\Users\NG.nakamura\Desktop\Akane\Akane\bin\Debug\Akane.exe
+C:\Users\NG.nakamura\Desktop\Akane\Akane\bin\Debug\Akane.pdb
+C:\Users\NG.nakamura\Desktop\Akane\Akane\bin\Debug\System.Reactive.Core.dll
+C:\Users\NG.nakamura\Desktop\Akane\Akane\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\NG.nakamura\Desktop\Akane\Akane\bin\Debug\System.Reactive.Linq.dll
+C:\Users\NG.nakamura\Desktop\Akane\Akane\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\NG.nakamura\Desktop\Akane\Akane\bin\Debug\System.Reactive.Windows.Threading.dll
+C:\Users\NG.nakamura\Desktop\Akane\Akane\bin\Debug\System.Reactive.Core.xml
+C:\Users\NG.nakamura\Desktop\Akane\Akane\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\NG.nakamura\Desktop\Akane\Akane\bin\Debug\System.Reactive.Linq.xml
+C:\Users\NG.nakamura\Desktop\Akane\Akane\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Users\NG.nakamura\Desktop\Akane\Akane\bin\Debug\System.Reactive.Windows.Threading.xml
+C:\Users\NG.nakamura\Desktop\Akane\Akane\obj\Debug\Akane.csprojResolveAssemblyReference.cache
